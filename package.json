@@ -1,0 +1,17 @@
+{
+  "name": "jkchr1s-libs",
+  "version": "1.0.0",
+  "description": "Common front-end JavaScript tools",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkchr1s/jkchr1s-libs.git"
+  },
+  "author": "jkchr1s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkchr1s/jkchr1s-libs/issues"
+  },
+  "homepage": "https://github.com/jkchr1s/jkchr1s-libs#readme"
+}
